@@ -12,7 +12,7 @@ The page highlights the importance of knowledge and education, combining inspira
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/TahaAhmet/Responsive-Website-Design-Project.git
    ```
 2. Open the project folder.  
 3. Launch `index.html` in your browser.
